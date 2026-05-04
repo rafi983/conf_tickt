@@ -126,8 +126,8 @@ npm run build
 
 ## Author
 
-- Name - [Add your name](https://www.frontendmentor.io/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Name - [Rafi Zaman](https://www.frontendmentor.io/profile/rafi983)
+- Frontend Mentor - [@rafi983](https://www.frontendmentor.io/profile/rafi983)
 
 ## Acknowledgments
 
