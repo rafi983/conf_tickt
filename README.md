@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here](https://www.frontendmentor.io/)
-- Live Site URL: [Add your deployed site URL here](https://example.com)
+- Solution URL: [My Frontend Mentor solution URL here](https://www.frontendmentor.io/solutions/built-a-conf-ticket-generator-using-nextjs-sjVST7t4fK)
+- Live Site URL: [My deployed site URL here](https://conf-tickt.vercel.app/)
 
 ## My process
 
